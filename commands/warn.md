@@ -1,6 +1,5 @@
 # Detailed info about /warn command
 
-```
 ## /warn add
 
 ### Arguments
@@ -9,8 +8,8 @@
 
 ### Permissions required
 1. MODERATE_MEMBERS
-```
-```
+
+
 ## /warn remove
 
 ### Arguments
@@ -19,4 +18,3 @@
 
 ### Permissions required
 1. MODERATE_MEMBERS
-```
